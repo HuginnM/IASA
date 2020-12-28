@@ -2,5 +2,5 @@ version: '3'
 
 services: 
     task_1:
-        image: hello-world:latest
-        
+        image: hello-world:lates
+      
